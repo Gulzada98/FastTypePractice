@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29102.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HW_WPF_LayoutAndContainers", "HW_WPF_LayoutAndContainers\HW_WPF_LayoutAndContainers.csproj", "{1628CAA7-A6D9-457F-BE95-81CC414332DA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1628CAA7-A6D9-457F-BE95-81CC414332DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1628CAA7-A6D9-457F-BE95-81CC414332DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1628CAA7-A6D9-457F-BE95-81CC414332DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1628CAA7-A6D9-457F-BE95-81CC414332DA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C02AE4B4-8AE3-4E40-8321-4CE046772FB5}
+	EndGlobalSection
+EndGlobal

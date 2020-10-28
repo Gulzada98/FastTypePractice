@@ -1,0 +1,15 @@
+C:\Users\алсер\source\repos\HW_WPF_LayoutAndContainers\HW_WPF_LayoutAndContainers\bin\Debug\HW_WPF_LayoutAndContainers.exe.config
+C:\Users\алсер\source\repos\HW_WPF_LayoutAndContainers\HW_WPF_LayoutAndContainers\bin\Debug\HW_WPF_LayoutAndContainers.exe
+C:\Users\алсер\source\repos\HW_WPF_LayoutAndContainers\HW_WPF_LayoutAndContainers\bin\Debug\HW_WPF_LayoutAndContainers.pdb
+C:\Users\алсер\source\repos\HW_WPF_LayoutAndContainers\HW_WPF_LayoutAndContainers\obj\Debug\HW_WPF_LayoutAndContainers.csprojAssemblyReference.cache
+C:\Users\алсер\source\repos\HW_WPF_LayoutAndContainers\HW_WPF_LayoutAndContainers\obj\Debug\MainWindow.g.cs
+C:\Users\алсер\source\repos\HW_WPF_LayoutAndContainers\HW_WPF_LayoutAndContainers\obj\Debug\App.g.cs
+C:\Users\алсер\source\repos\HW_WPF_LayoutAndContainers\HW_WPF_LayoutAndContainers\obj\Debug\HW_WPF_LayoutAndContainers_MarkupCompile.cache
+C:\Users\алсер\source\repos\HW_WPF_LayoutAndContainers\HW_WPF_LayoutAndContainers\obj\Debug\HW_WPF_LayoutAndContainers_MarkupCompile.lref
+C:\Users\алсер\source\repos\HW_WPF_LayoutAndContainers\HW_WPF_LayoutAndContainers\obj\Debug\MainWindow.baml
+C:\Users\алсер\source\repos\HW_WPF_LayoutAndContainers\HW_WPF_LayoutAndContainers\obj\Debug\HW_WPF_LayoutAndContainers.g.resources
+C:\Users\алсер\source\repos\HW_WPF_LayoutAndContainers\HW_WPF_LayoutAndContainers\obj\Debug\HW_WPF_LayoutAndContainers.Properties.Resources.resources
+C:\Users\алсер\source\repos\HW_WPF_LayoutAndContainers\HW_WPF_LayoutAndContainers\obj\Debug\HW_WPF_LayoutAndContainers.csproj.GenerateResource.cache
+C:\Users\алсер\source\repos\HW_WPF_LayoutAndContainers\HW_WPF_LayoutAndContainers\obj\Debug\HW_WPF_LayoutAndContainers.csproj.CoreCompileInputs.cache
+C:\Users\алсер\source\repos\HW_WPF_LayoutAndContainers\HW_WPF_LayoutAndContainers\obj\Debug\HW_WPF_LayoutAndContainers.exe
+C:\Users\алсер\source\repos\HW_WPF_LayoutAndContainers\HW_WPF_LayoutAndContainers\obj\Debug\HW_WPF_LayoutAndContainers.pdb

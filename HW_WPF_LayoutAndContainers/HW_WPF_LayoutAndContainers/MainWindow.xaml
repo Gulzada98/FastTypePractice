@@ -1,0 +1,113 @@
+﻿<Window x:Class="HW_WPF_LayoutAndContainers.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:HW_WPF_LayoutAndContainers"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="650" Width="1000">
+    <Grid x:Name="mainRoot">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition />
+            <ColumnDefinition />
+            <ColumnDefinition />
+            <ColumnDefinition />
+            <ColumnDefinition />
+            <ColumnDefinition />
+            <ColumnDefinition />
+            <ColumnDefinition />
+            <ColumnDefinition />
+            <ColumnDefinition />
+            <ColumnDefinition />
+            <ColumnDefinition />
+            <ColumnDefinition />
+            <ColumnDefinition />
+            <ColumnDefinition />            
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition />
+            <RowDefinition />
+            <RowDefinition />
+            <RowDefinition />
+            <RowDefinition />
+            <RowDefinition />
+            <RowDefinition />
+        </Grid.RowDefinitions>
+
+        
+        <TextBlock x:Name="textLabel" Background="Blue" Grid.Column="0" Grid.Row="1" Grid.ColumnSpan="14" FontSize="24"></TextBlock>
+        <TextBox x:Name="rndText" Grid.Column="0" Grid.Row="0" Grid.ColumnSpan="9" FontSize="24"/>
+
+        <Button Grid.Column="11" Grid.Row="0" Grid.ColumnSpan="2" Content="Start" Margin="10" FontSize="24" Background="#FF94F787" />
+        <Button Grid.Column="13" Grid.Row="0" Grid.ColumnSpan="2" Content="Stop" Margin="10" FontSize="24" Background="#FFF38474" />
+
+
+
+        <Button Grid.Column="0" Grid.Row="2" FontSize="24">`</Button>
+        <Button Grid.Column="1" Grid.Row="2" FontSize="24">1</Button>
+        <Button Grid.Column="2" Grid.Row="2" FontSize="24">2</Button>
+        <Button Grid.Column="3" Grid.Row="2" FontSize="24">3</Button>
+        <Button Grid.Column="4" Grid.Row="2" FontSize="24">4</Button>
+        <Button Grid.Column="5" Grid.Row="2" FontSize="24">5</Button>
+        <Button Grid.Column="6" Grid.Row="2" FontSize="24">6</Button>
+        <Button Grid.Column="7" Grid.Row="2" FontSize="24">7</Button>
+        <Button Grid.Column="8" Grid.Row="2" FontSize="24">8</Button>
+        <Button Grid.Column="9" Grid.Row="2" FontSize="24">9</Button>
+        <Button Grid.Column="10" Grid.Row="2" FontSize="24">0</Button>
+        <Button Grid.Column="11" Grid.Row="2" FontSize="24">-</Button>
+        <Button Grid.Column="12" Grid.Row="2" FontSize="24">=</Button>
+        <Button Grid.Column="13" Grid.Row="2" Grid.ColumnSpan="2" FontSize="24">Backspace</Button>
+        
+        <Button Grid.Column="0" Grid.Row="3" Grid.ColumnSpan="2" FontSize="24">tab</Button>
+        <Button Grid.Column="2" Grid.Row="3" FontSize="24">q</Button>
+        <Button Grid.Column="3" Grid.Row="3" FontSize="24">w</Button>
+        <Button Grid.Column="4" Grid.Row="3" FontSize="24">e</Button>
+        <Button Grid.Column="5" Grid.Row="3" FontSize="24">r</Button>
+        <Button Grid.Column="6" Grid.Row="3" FontSize="24">t</Button>
+        <Button Grid.Column="7" Grid.Row="3" FontSize="24">y</Button>
+        <Button Grid.Column="8" Grid.Row="3" FontSize="24">u</Button>
+        <Button Grid.Column="9" Grid.Row="3" FontSize="24">i</Button>
+        <Button Grid.Column="10" Grid.Row="3" FontSize="24">o</Button>
+        <Button Grid.Column="11" Grid.Row="3" FontSize="24">p</Button>
+        <Button Grid.Column="12" Grid.Row="3" FontSize="24">[</Button>
+        <Button Grid.Column="13" Grid.Row="3" FontSize="24">]</Button>
+        <Button Grid.Column="14" Grid.Row="3" FontSize="24">\</Button>
+
+        <Button Grid.Column="0" Grid.Row="4" Grid.ColumnSpan="2" FontSize="24">CapsLock</Button>
+        <Button Grid.Column="2" Grid.Row="4" FontSize="24">a</Button>
+        <Button Grid.Column="3" Grid.Row="4" FontSize="24">s</Button>
+        <Button Grid.Column="4" Grid.Row="4" FontSize="24">d</Button>
+        <Button Grid.Column="5" Grid.Row="4" FontSize="24">f</Button>
+        <Button Grid.Column="6" Grid.Row="4" FontSize="24">g</Button>
+        <Button Grid.Column="7" Grid.Row="4" FontSize="24">h</Button>
+        <Button Grid.Column="8" Grid.Row="4" FontSize="24">j</Button>
+        <Button Grid.Column="9" Grid.Row="4" FontSize="24">k</Button>
+        <Button Grid.Column="10" Grid.Row="4" FontSize="24">l</Button>
+        <Button Grid.Column="11" Grid.Row="4" FontSize="24">;</Button>
+        <Button Grid.Column="12" Grid.Row="4" FontSize="24">'</Button>
+        <Button Grid.Column="13" Grid.Row="4" Grid.ColumnSpan="2" FontSize="24">Enter</Button>
+
+        <Button Grid.Column="0" Grid.Row="5" Grid.ColumnSpan="3" FontSize="24">Shift</Button>
+        <Button Grid.Column="3" Grid.Row="5" FontSize="24">z</Button>
+        <Button Grid.Column="4" Grid.Row="5" FontSize="24">x</Button>
+        <Button Grid.Column="5" Grid.Row="5" FontSize="24">c</Button>
+        <Button Grid.Column="6" Grid.Row="5" FontSize="24">v</Button>
+        <Button Grid.Column="7" Grid.Row="5" FontSize="24">b</Button>
+        <Button Grid.Column="8" Grid.Row="5" FontSize="24">n</Button>
+        <Button Grid.Column="9" Grid.Row="5" FontSize="24">m</Button>
+        <Button Grid.Column="10" Grid.Row="5" FontSize="24">,</Button>
+        <Button Grid.Column="11" Grid.Row="5" FontSize="24">.</Button>
+        <Button Grid.Column="12" Grid.Row="5" FontSize="24">/</Button>
+        <Button Grid.Column="13" Grid.Row="5" Grid.ColumnSpan="2" FontSize="24">Shift</Button>
+
+        <Button Grid.Column="0" Grid.Row="6" FontSize="24">Ctrl</Button>
+        <Button Grid.Column="1" Grid.Row="6" FontSize="24">Win</Button>
+        <Button Grid.Column="2" Grid.Row="6" FontSize="24">Alt</Button>
+        <Button Grid.Column="3" Grid.Row="6" Grid.ColumnSpan="9" FontSize="24">Space</Button>
+        <Button Grid.Column="12" Grid.Row="6" FontSize="24">Alt</Button>
+        <Button Grid.Column="13" Grid.Row="6" FontSize="24">Win</Button>
+        <Button Grid.Column="14" Grid.Row="6" FontSize="24">Ctrl</Button>
+
+
+    </Grid>
+</Window>
